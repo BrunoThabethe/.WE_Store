@@ -38,8 +38,8 @@ nav ul li a {
 /* Hero Section */
 .hero {
     text-align: center;
-    padding: 50px;
-    background: url('assets/images/Screenshot_20250130_082319_Gallery.jpg') no-repeat center center/cover;
+    padding: 250px;
+    background: url('assets/images/THE UNTOLD STORY_ SILVER HEART.png') no-repeat center center/cover;
     animation: fadeIn 1.5s ease-in-out;
 }
 
